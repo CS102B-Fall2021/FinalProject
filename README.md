@@ -2,7 +2,7 @@
 
 For your final project, you will write a "Choose Your Own Adventure" program. More information can be found here: [https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure).
 
-In this program, you will write a compelling story within your program that uses at least 10 different concepts from CS102A. Below is a list of concepts.
+In this program, you will write a compelling story within your program that uses at least 10 different concepts from CS102B. Below is a list of concepts.
 - Hello World
 - If, Else-If, Else Statements
 - Switch Statements
